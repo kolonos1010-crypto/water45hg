@@ -1,0 +1,12 @@
+====== API CONFIGURATION (EASY ACCESS) ======
+
+🔑 MODULE: 1
+
+🔑 API_KEYS: 
+b67b511e91814eee328d9fa38e000d9a,8f3c2a1b4d5e6f7g8h9i0j1k2l3m4n5o
+
+====== USAGE ======
+- Place this file in your root directory for easy access
+- Rename as needed based on your project requirements
+- Read by config.py to load MODULE and API_KEYS
+- The system will rotate API keys if one fails
